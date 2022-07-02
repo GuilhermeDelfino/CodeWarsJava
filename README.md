@@ -1,12 +1,13 @@
 # CodeWarsJava
-I have here some exercicies from site CodeWars, because I want to be better in programming logic. 
+I have here some exercises from site CodeWars, because I want to be better in programming logic. 
 
 ---
 
 ##### Ps: I'm also inserting Unit Tests with JUnit
 
 For more details, it's here my profile link https://www.codewars.com/users/GuilhermeDelfino/
-### Exercicies
+#### Total exercises: 16
+### Exercises
 
 - Convert a Boolean to a String
 - Transportation on vacation
@@ -22,5 +23,11 @@ For more details, it's here my profile link https://www.codewars.com/users/Guilh
 - String ends with?
 - Array.diff
 - Multiply
+- Basic Mathematical Operations
+- Beginner - Lost Without a Map
+- Count of positives / sum of negatives
+- Descending Order
+
+
 
 
