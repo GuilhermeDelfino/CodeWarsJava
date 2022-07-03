@@ -6,7 +6,7 @@ I have here some exercises from site CodeWars, because I want to be better in pr
 ##### Ps: I'm also inserting Unit Tests with JUnit
 
 For more details, it's here my profile link https://www.codewars.com/users/GuilhermeDelfino/
-#### Total exercises: 16
+#### Total exercises: 20
 ### Exercises
 
 - Convert a Boolean to a String
@@ -27,6 +27,8 @@ For more details, it's here my profile link https://www.codewars.com/users/Guilh
 - Beginner - Lost Without a Map
 - Count of positives / sum of negatives
 - Descending Order
+- Disemvowel Trolls
+- Opposites Attract
 
 
 

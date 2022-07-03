@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3540e16-ec7d-454b-a80b-3255d9b0dd98" name="Changes" comment="Readme update">
-      <change afterPath="$PROJECT_DIR$/src/main/java/code_wars/BasicOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/code_wars/CountPositivesSumNegatives.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/code_wars/Maps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test_code_wars/BasicOperationsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test_code_wars/CountPositivesSumNegativesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test_code_wars/DescendingOrderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test_code_wars/MapsTest.java" afterDir="false" />
+    <list default="true" id="c3540e16-ec7d-454b-a80b-3255d9b0dd98" name="Changes" comment="Commit 22.07.02">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/code_wars/DescendingOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/code_wars/DescendingOrder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +48,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.DescendingOrderTest">
+  <component name="RunManager" selected="JUnit.TrollTest">
     <configuration name="DescendingOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="code_wars.DescendingOrder" />
       <module name="code_wars" />
@@ -66,37 +58,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CountPositivesSumNegativesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="code_wars" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test_code_wars.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test_code_wars" />
-      <option name="MAIN_CLASS_NAME" value="test_code_wars.CountPositivesSumNegativesTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CountPositivesSumNegativesTest.countPositivesSumNegatives_BasicTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="code_wars" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test_code_wars.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test_code_wars" />
-      <option name="MAIN_CLASS_NAME" value="test_code_wars.CountPositivesSumNegativesTest" />
-      <option name="METHOD_NAME" value="countPositivesSumNegatives_BasicTest" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -116,7 +77,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="OppositesAttractTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="code_wars" />
       <extension name="coverage">
         <pattern>
@@ -125,7 +86,37 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="test_code_wars" />
-      <option name="MAIN_CLASS_NAME" value="test_code_wars.MapsTest" />
+      <option name="MAIN_CLASS_NAME" value="test_code_wars.OppositesAttractTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PangramCheckerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="code_wars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test_code_wars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test_code_wars" />
+      <option name="MAIN_CLASS_NAME" value="test_code_wars.PangramCheckerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrollTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="code_wars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test_code_wars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test_code_wars" />
+      <option name="MAIN_CLASS_NAME" value="test_code_wars.TrollTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -133,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TrollTest" />
+        <item itemvalue="JUnit.OppositesAttractTest" />
+        <item itemvalue="JUnit.PangramCheckerTest" />
         <item itemvalue="JUnit.DescendingOrderTest" />
         <item itemvalue="Application.DescendingOrder" />
-        <item itemvalue="JUnit.CountPositivesSumNegativesTest.countPositivesSumNegatives_BasicTest" />
-        <item itemvalue="JUnit.CountPositivesSumNegativesTest" />
-        <item itemvalue="JUnit.MapsTest" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656781674016</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Commit 22.07.02">
+      <created>1656798748036</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1656798748036</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,6 +193,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit with someone exercicies from code wars" />
     <MESSAGE value="Readme update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Readme update" />
+    <MESSAGE value="Commit 22.07.02" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.07.02" />
   </component>
 </project>
